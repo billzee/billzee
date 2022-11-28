@@ -2,7 +2,7 @@
 
 Hey, thanks for stopping by. 
 
-I am the Managing Director of an MSP by day and a wanna be Python :snake: dev by night (occassionally at lunch too). 
+I am the CEO of an MSP by day and a wanna be Python :snake: dev by night (occassionally at lunch too). 
 
 Here are some ideas that GitHub gave me to get started on this profile (click each item to expand):
 
@@ -13,15 +13,15 @@ too many Python projects
 <details><summary>🌱 I’m currently learning ...</summary>
   
   - more Python
-  - Svelte
+  - test-driven development
 </details>
 
 <details><summary>👯 I’m looking to collaborate on ...</summary>
   
  things related to:
   - Python
-  - pfSense
   - Proxmox
+  - pfSense
 </details>
 
 <details><summary>🤔 I’m looking for help with ...</summary>

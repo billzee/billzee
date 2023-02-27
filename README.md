@@ -7,25 +7,25 @@ I am the CEO of an MSP by day and a wanna be Python :snake: dev by night (occass
 Here are some ideas that GitHub gave me to get started on this profile (click each item to expand):
 
 <details><summary>🔭 I’m currently working on ...</summary>
-too many Python projects
+  
+  - too many Python projects
+  - automating everything I can with Ansible
 </details>
 
 <details><summary>🌱 I’m currently learning ...</summary>
   
-  - more Python
-  - test-driven development
+  - Ansible
+  - Docker
 </details>
 
 <details><summary>👯 I’m looking to collaborate on ...</summary>
-  
  things related to:
-  - Python
+  
   - Proxmox
   - pfSense
 </details>
 
 <details><summary>🤔 I’m looking for help with ...</summary>
-  
   not really looking for help right now (although, I should be)
 </details>
 
@@ -33,8 +33,8 @@ too many Python projects
 <details><summary>💬 Ask me about ...</summary>
   
   - Python
-  - pfSense
   - Proxmox
+  - pfSense
   - IPv6
 </details>
 

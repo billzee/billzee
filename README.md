@@ -2,7 +2,7 @@
 
 Hey, thanks for stopping by. 
 
-I am the CEO of an MSP by day and a wanna be Python :snake: dev by night (occassionally at lunch too). 
+I am the CEO of an MSP by day and a wannabe Python :snake: dev by night (occasionally at lunch too). 
 
 Here are some ideas that GitHub gave me to get started on this profile (click each item to expand):
 
@@ -10,23 +10,25 @@ Here are some ideas that GitHub gave me to get started on this profile (click ea
   
   - too many Python projects
   - automating everything I can with Ansible
+  - organizing my Ansible playbooks and roles
 </details>
 
 <details><summary>🌱 I’m currently learning ...</summary>
   
   - Ansible
-  - Docker
+  - how not to break things with Ansible
+  - practical use of IPv6
 </details>
 
 <details><summary>👯 I’m looking to collaborate on ...</summary>
  things related to:
   
-  - Proxmox
-  - pfSense
+  - Ansible with Proxmox
+  - Ansible with pfSense
 </details>
 
 <details><summary>🤔 I’m looking for help with ...</summary>
-  not really looking for help right now (although, I should be)
+  not really looking for help right now (although I should be)
 </details>
 
 
@@ -52,7 +54,7 @@ he/him
 
   - My first program was written in BASIC in the 1980s
   - My oldest (still) running production code was written in Ruby
-  - My most successful code (measured in number of users) was written in Javascript (Google Apps Script)
+  - My most successful code (measured in the number of users) was written in Javascript (Google Apps Script)
   - I have written more Python than any other code
-  - Until very recently most of my Python code was written on my iPhone
+  - Until recently, most of my Python code was written on my iPhone
 </details>

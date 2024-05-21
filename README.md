@@ -8,7 +8,7 @@ Here are some ideas that GitHub gave me to get started on this profile (click ea
 
 <details><summary>🔭 I’m currently working on ...</summary>
   
-  - too many Python projects
+  - too many projects
   - automating everything I can with Ansible
   - organizing my Ansible playbooks and roles
 </details>
@@ -28,14 +28,15 @@ Here are some ideas that GitHub gave me to get started on this profile (click ea
 </details>
 
 <details><summary>🤔 I’m looking for help with ...</summary>
-  not really looking for help right now (although I should be)
+  I am not really looking for help right now (although I should be)
 </details>
 
 
 <details><summary>💬 Ask me about ...</summary>
   
   - Python
-  - Proxmox
+  - Proxmox VE
+  - Proxmox Backup Server
   - pfSense
   - IPv6
 </details>

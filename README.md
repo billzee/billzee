@@ -2,9 +2,7 @@
 
 Hey, thanks for stopping by. 
 
-I am the CEO of an MSP by day and a wannabe Python :snake: dev by night (occasionally at lunch too). 
-
-Here are some ideas that GitHub gave me to get started on this profile (click each item to expand):
+I am the CEO of an MSP by day and a wannabe Python :snake: dev by night (and occasionally at lunch). 
 
 <details><summary>🔭 I’m currently working on ...</summary>
   
@@ -15,6 +13,7 @@ Here are some ideas that GitHub gave me to get started on this profile (click ea
 
 <details><summary>🌱 I’m currently learning ...</summary>
   
+  - Rust
   - Ansible
   - how not to break things with Ansible
   - practical use of IPv6
@@ -23,8 +22,7 @@ Here are some ideas that GitHub gave me to get started on this profile (click ea
 <details><summary>👯 I’m looking to collaborate on ...</summary>
  things related to:
   
-  - Ansible with Proxmox
-  - Ansible with pfSense
+  - Ansible with Proxmox products
 </details>
 
 <details><summary>🤔 I’m looking for help with ...</summary>

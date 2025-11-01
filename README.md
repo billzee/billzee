@@ -2,7 +2,7 @@
 
 Hey, thanks for stopping by. 
 
-I am the CEO of an MSP by day and a wannabe Python :snake: dev by night (and occasionally at lunch). 
+I am the CEO of a growing tech company by day and a wannabe Python :snake: dev by night (and occasionally at lunch). 
 
 <details><summary>🔭 I’m currently working on ...</summary>
   
@@ -35,7 +35,6 @@ I am the CEO of an MSP by day and a wannabe Python :snake: dev by night (and occ
   - Python
   - Proxmox VE
   - Proxmox Backup Server
-  - pfSense
   - IPv6
 </details>
 
